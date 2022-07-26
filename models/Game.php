@@ -8,7 +8,5 @@ class Game{
     public function getId(){
         return $this->id;
     }
-    public function setId()[
-        
-    ]
+   
 }
